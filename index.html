@@ -9,8 +9,18 @@
   <header id="cabecalho">
     <h1 id="titulo">Projeto Lições Aprendidas</h1>
   </header>
-  <section>
+  <nav>
+    <ul>
+      <li><a href="index.html">Início</a></li>
+      <li><a href="#aprendidas">Lições Aprendidas</a></li>
+      <li><a href="#aprender">Lições a Aprender</a></li>
+      <li><a href="#aprendizado">Aprendizado</a></li>
+      <li><a href="#rodape">Links Úteis</a></li>
+    </ul>
+  </nav>
+  <section id="main">
     <img id="minha_foto" src="foto.jpg" alt="Minha foto">
+    <h3 id="aprendidas">Lições aprendidas</h3>
     <ol id="licoes_aprendidas">
       <li>Utilização de Tags e Seletores</li>
       <li>Trabalhando com imagens</li>
@@ -23,6 +33,7 @@
       <li>Elementos Flutuantes</li>
       <li>Block, Inline e Inline-Block</li>
     </ol>
+    <h3 id="aprender">Lições a aprender</h3>
     <ul id="licoes_a_aprender">
       <li>JavaScript</li>
       <li>NodeJS</li>
@@ -37,15 +48,22 @@
     </ul>
   </section>
   <article>
-    <h3>Texto sobre aprendizado</h3>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
+    <div id="artigo1">
+      <h3 id="aprendizado">Texto sobre aprendizado</h3>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged</p>
+    </div>
   </article>
   <aside>
-    <h3>Meu aprendizado</h3>
-    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+    <div id="artigo2">
+      <h3>Meu aprendizado</h3>
+      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+    </div>
   </aside>
   <footer id="rodape">
-    <a href="https://squizlabs.github.io/HTML_CodeSniffer/" target="_blank">Link para o CodeSniffer</a>
+    <h4>Links Úteis</h4>
+    <a href="https://squizlabs.github.io/HTML_CodeSniffer/" target="_blank">CodeSniffer</a>
+    <a href="https://github.com/" target="_blank">GitHub</a>
+    <a href="http://google.com" target="_blank">Google</a>
   </footer>
 </body>
 </html>
