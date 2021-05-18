@@ -15,7 +15,7 @@ main {
 
 header {
   text-align: center;
-  padding: 20px 0px;
+  padding: 20px 0;
 }
 
 #cabecalho {
@@ -51,11 +51,11 @@ article {
 }
 
 aside {
-  width: 35%;
-  float: right;
+  width: 40%;
+  display: inline-block;
 }
 
-#artigo1, #artigo2{
+#artigo1, #artigo2 {
   padding: 20px;
   border: 1px solid;
   border-radius: 4px;
