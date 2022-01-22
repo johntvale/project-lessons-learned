@@ -1,5 +1,4 @@
 # Projeto Lessons Learned
----
   Esse projeto tem como objetivo utilizar os conhecimentos adquiridos sobre _HTML_, _CSS_ e _HTML Semântico_, para desenvolver uma Página Web completa.
   A semântica da página deve estar de acordo com o HTML CodeSniffer.
 
