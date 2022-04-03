@@ -3,6 +3,7 @@
   
   O objetivo desse projeto é desenvolver um Portifólio One Page, utilizando os conhecimentos adquiridos sobre _HTML_, _CSS_ e _HTML Semântico_.
   <br>A semântica da página deve estar de acordo com o HTML CodeSniffer.
+  <br><br>Você pode acessá-lo <a href="https://johntvale.github.io/projeto-lessons-learned/">clicando aqui :rocket:</a>.
 
 ---
 
