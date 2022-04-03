@@ -1,6 +1,8 @@
 # Projeto Lessons Learned
-  Esse projeto tem como objetivo utilizar os conhecimentos adquiridos sobre _HTML_, _CSS_ e _HTML Semântico_, para desenvolver uma Página Web completa.
-  A semântica da página deve estar de acordo com o HTML CodeSniffer.
+  Esse foi meu primeiro projeto desenvolvido no curso da Trybe, no módulo de Fundamentos.
+  
+  O objetivo desse projeto é desenvolver um Portifólio One Page, utilizando os conhecimentos adquiridos sobre _HTML_, _CSS_ e _HTML Semântico_.
+  <br>A semântica da página deve estar de acordo com o HTML CodeSniffer.
 
 ---
 
